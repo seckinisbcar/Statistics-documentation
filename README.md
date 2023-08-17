@@ -4,7 +4,6 @@
 
 <title>Olasılık Dağılımları</title>
 
-<body>
     <h2>Kesikli Olasılık Dağılımları:</h2>
     <ul>
         <li>Bernoulli Dağılımı</li>
