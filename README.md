@@ -1,9 +1,9 @@
 # Statistics_documentation
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Olasılık Dağılımları</title>
-</head>
+
+
+
+<title>Olasılık Dağılımları</title>
+
 <body>
     <h2>Kesikli Olasılık Dağılımları:</h2>
     <ul>
@@ -15,7 +15,6 @@
         <li>Negatif Binom Dağılımı</li>
         <li>Multinomiyal Dağılım</li>
     </ul>
-
     <h2>Sürekli Olasılık Dağılımları:</h2>
     <ul>
         <li>Normal Dağılım (Gauss Dağılımı)</li>
@@ -31,5 +30,4 @@
         <li>F Dağılımı</li>
         <li>Laplace Dağılımı</li>
     </ul>
-</body>
-</html>
+
