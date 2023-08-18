@@ -1,7 +1,8 @@
 # Statistics_documentation
 
 
-<h1>Olasılık Dağılımları</h1>
+
+<a href="https://github.com/seckinisbcar/Statistics-documentation/blob/main/Olas%C4%B1l%C4%B1k%20Da%C4%9F%C4%B1l%C4%B1mlar%C4%B1/IOD.ipynb"><h1>Olasılık Dağılımları</h1></a>
 
 <h2>Kesikli Olasılık Dağılımları:</h2>
 <ul>
